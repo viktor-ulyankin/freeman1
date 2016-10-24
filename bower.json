@@ -1,0 +1,19 @@
+{
+  "name": "freeman1",
+  "version": "1.0.0",
+  "authors": [
+    "Viktor Ulyankin freeman.viktor@mail.ru"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "normalize-css": "^5.0.0"
+  }
+}
